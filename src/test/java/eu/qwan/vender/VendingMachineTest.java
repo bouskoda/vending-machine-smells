@@ -1,8 +1,8 @@
 package eu.qwan.vender;
 
-import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
+
+import static org.junit.Assert.*;
 
 public class VendingMachineTest {
 	private final VendingMachine machine = new VendingMachine();
